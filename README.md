@@ -9,3 +9,5 @@
 - [Style Sheet](https://reactnative.dev/docs/stylesheet)
 
 ## APP :iphone:
+
+- [Deploy](https://expo-api-routes-kappa.vercel.app/)
