@@ -17,7 +17,7 @@ export async function POST(request: ExpoRequest): Promise<ExpoResponse>{
         })
     }
     
-   return new ExpoResponse("User or password incorrect", {
+   return new ExpoResponse("Usuário ou senha incorreto", {
     status: 404,
     headers: {
       'Content-Type': 'text/plain',
